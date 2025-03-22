@@ -1,14 +1,11 @@
 {
-  "ide": 1,
-  "nombre": "Juan Pérez",
-  "email": "juan.perez@example.com",
-  "telefono": "+34 123 456 789",
-  "direccion": {
-    "calle": "Calle Ficticia 123",
-    "ciudad": "Madrid",
-    "codigo_postal": "28001",
-    "pais": "España"
-  },
-  "activo": true,
-  "roles": ["usuario", "administrador"]
+  {
+  "link":"https://i.imgur.com/GLTHOgZ.jpeg",
+  "fecha":"15/09/2025",
+  "titulo"
+  },{
+  "link":"https://i.imgur.com/GLTHOgZ.jpeg",
+  "fecha":"15/09/2025",
+  "titulo"
+  }
 }
